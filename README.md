@@ -73,6 +73,7 @@ Anemone is a compact C library designed for the C programming language, with the
    &nbsp;
    <img align="center" height="50" width="50" src="https://www.nasm.us/images/nasm.png">
    <img align="center" height="50" width="50" src="./redis-original.png">
+   <img align="center" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg">
 </div>
 
 ### My technologies
@@ -92,25 +93,12 @@ Anemone is a compact C library designed for the C programming language, with the
    <li>English 🇺🇸</li>
 </ul>
 
-### My operating system
+### My operating systems
 
 <div>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">   
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux (btw)</p>
+   &nbsp;&nbsp;&nbsp;
+   <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/debian-2.svg">  
+   <p>&nbsp;Arch Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debian</p>
 </div>
-
-<!--
-    ------------------
-   //     _____      \\
-  //     |  __ \      \\
- //      | |__) |      \\
-//       |  _  /        \\
-\\       | | \ \        //
- \\      |_|  \_\      //
-  \\    __________    //
-   \\                //
-   --------------------
-   | Rômulo P. Moraes |
-   -------------------
--->
