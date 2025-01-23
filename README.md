@@ -85,6 +85,7 @@ Anemone is a compact C library designed for the C programming language, with the
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+   <img align="center" height="52" width="52" src="./go-img.png">
 </div>
 
 ### My languages
@@ -98,7 +99,7 @@ Anemone is a compact C library designed for the C programming language, with the
 <div>
    &nbsp;&nbsp;&nbsp;
    <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/debian-2.svg">  
    <p>&nbsp;Arch Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debian</p>
 </div>
