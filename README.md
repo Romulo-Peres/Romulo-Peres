@@ -97,7 +97,7 @@ Anemone is a compact C library designed for the C programming language, with the
 ### My operating systems
 
 <div>
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/debian-2.svg">  
