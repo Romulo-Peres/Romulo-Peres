@@ -1,6 +1,6 @@
 <img align="right" width="260" height="210" src="CypherBoy.gif">
 
-<h1 align="center">{ &nbsp; Rômulo Peres de Moraes &nbsp; }</h1>
+<h1 align="center">{ &nbsp; Rômulo Peres &nbsp; }</h1>
 
 Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedicated to software engineering and understanding the inner workings of computers. My interests extend to video games, skateboarding and music. When it comes to programming languages, C is my absolute favorite, to me there is nothing more powerful than it.
 
