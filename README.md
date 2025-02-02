@@ -7,18 +7,18 @@ Hey! My name is Rômulo Peres de Moraes, a passionate computer enthusiast dedica
 <h1>Some good repositories that you could like</h1>
 
 <div>
-   <a href="https://github.com/Romulo-Moraes/Rclock">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Rclock&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Rclock">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Rclock&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/Rmatrix">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Rmatrix&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Rmatrix">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Rmatrix&theme=tokyonight">
    </a>
    <br/>
-   <a href="https://github.com/Romulo-Moraes/Assembly-Toolkit">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Assembly-Toolkit&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Assembly-Toolkit">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/Real-snake">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Real-snake&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Real-snake">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Real-snake&theme=tokyonight">
    </a>
 </div>
 
@@ -47,18 +47,18 @@ Anemone is a compact C library designed for the C programming language, with the
 
 # See also
 <div>
-   <a href="https://github.com/Romulo-Moraes/Icewall">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=Icewall&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Icewall">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Icewall&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Moraes/stars">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Moraes&repo=stars&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/stars">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=stars&theme=tokyonight">
    </a>
 </div>
 
 <h1>My status 📖</h1>
 <div>
-   <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Moraes&theme=tokyonight&show_icons=true">
-   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Moraes&theme=tokyonight&layout=compact&langs_count=4&hide=javascript">
+   <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Peres&theme=tokyonight&show_icons=true">
+   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Peres&theme=tokyonight&layout=compact&langs_count=4&hide=javascript">
 </div>
 <sup>Reload the page if they didn't appear ;)</sup>
 
