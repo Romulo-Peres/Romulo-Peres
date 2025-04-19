@@ -10,8 +10,8 @@ Hey! My name is Rômulo Peres, i am a computer enthusiast dedicated to software 
    <a href="https://github.com/Romulo-Peres/Rclock">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Rclock&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Peres/Rmatrix">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Rmatrix&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Aligner">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Aligner&theme=tokyonight">
    </a>
    <br/>
    <a href="https://github.com/Romulo-Peres/Assembly-Toolkit">
@@ -50,8 +50,8 @@ Anemone is a compact C library designed for the C programming language, with the
    <a href="https://github.com/Romulo-Peres/Icewall">
       <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Icewall&theme=tokyonight">
    </a>
-   <a href="https://github.com/Romulo-Peres/stars">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=stars&theme=tokyonight">
+   <a href="https://github.com/Romulo-Peres/Rmatrix">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=rmatrix&theme=tokyonight">
    </a>
 </div>
 
