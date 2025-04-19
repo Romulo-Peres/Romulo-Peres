@@ -22,16 +22,19 @@ Hey! My name is Rômulo Peres, i am a computer enthusiast dedicated to software 
    </a>
 </div>
 
+<h2>⚙️ Assembly-Toolkit ⚙️</h2>
+This repository contains considerable information about the Assembly language, providing the essential resources for diving into low-level programming. It covers topics about memory segments, jumps, registers, opcodes and more.
+
+<h2>🐍 Real-snake 🐍</h2>
+Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 1KiB, loader included.
+
+<h2>💻 Aligner 💻</h2>
+The Aligner is a software tool designed to transform boring, raw terminal interfaces into incredible and elegant message displays. It's fully customizable with colors, display modes, messages, and remote control. Everything you need to make your setup look awesome!
+
 <h2>⌚ Rclock ⌚</h2>
 The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
 This repository is fully documented, for final users and for developers that may create new features or for maintenance reasons.
 The included features of the Rclock are: customize the color of the components, optionally hide the date and the seconds, set a custom date and so on...
-
-<h2>👩‍💻 Aligner 👩‍💻</h2>
-The Aligner is a software tool designed to transform boring, raw terminal interfaces into incredible and elegant message displays. It's fully customizable with colors, display modes, messages, and remote control. Everything you need to make your setup look awesome!
-
-<h2>⚙️ Assembly-Toolkit ⚙️</h2>
-This repository contains considerable information about the Assembly language, providing the essential resources for diving into low-level programming. It covers topics about memory segments, jumps, registers, opcodes and more.
 
 <!--<h2>❄️ Icewall ❄️</h2>
 The icewall is a software written in C programming language that implements a firewall for Linux systems. This software tests incoming and outgoing network packets against defined rules, the result of the test defines if the packet must be dropped or allowed to continue torwards its destination. The icewall are divided into two programs, a kernel module, that actually filters all incoming and outgoing packets, and a controller, that acts as a front-end to define new rules, list them and so on.
@@ -40,9 +43,6 @@ The icewall is a software written in C programming language that implements a fi
 <!--
 <h2>💻 Rmatrix 💻</h2>
 The Rmatrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.-->
-
-<h2>🐍 Real-snake 🐍</h2>
-Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 1KiB, loader included.
 
 <!--
 <h2>Anemone 🐟</h2>
