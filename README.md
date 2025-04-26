@@ -83,12 +83,12 @@ Anemone is a compact C library designed for the C programming language, with the
 <div>
    <img align="center" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-      <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
+   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
    <img align="center" height="55" width="55" src="Asm icon.png">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" height="45" width="50" src="https://rust-lang.org/logos/rust-logo-512x512.png">
    <img align="center" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-   <img align="center" height="52" width="52" src="./go-img.png">
 </div>
 
 ### My languages
