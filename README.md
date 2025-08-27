@@ -2,7 +2,7 @@
 
 <h1 align="center">{ &nbsp; Rômulo "Cypher" Peres &nbsp; }</h1>
 
-Hey! My name is Rômulo Peres. I’m a computer enthusiast dedicated to software engineering and exploring the inner workings of computers. My interests extend to games, music, and hacking. When it comes to programming languages, C is my absolute favorite because of its power and low-level control over hardware and memory.
+Hey! My name is Rômulo Peres. I’m a computer enthusiast dedicated to software engineering and exploring the inner workings of computers. My interests extend to games, music, and hardware. When it comes to programming languages, C is my absolute favorite because of its power and low-level control over hardware and memory.
 
 <h1>Some good repositories that you could like</h1>
 
