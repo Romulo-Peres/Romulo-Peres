@@ -4,7 +4,7 @@
 
 Hello, my name is Rômulo Peres. I’m a computer enthusiast with a strong focus on software engineering and computer architecture. My interests extend to low-level programming, kernel mode development and compiler designs. As a full-stack software engineer, I focus on developing reliable and well-structured solutions with technologies such as TypeScript, Python, and Java.
 
-<h1>Some good repositories that you could like</h1>
+<h2>Some good repositories that you could like</h2>
 
 <div>
    <a href="https://github.com/Romulo-Peres/Rmatrix">
