@@ -41,8 +41,7 @@ The icewall is a software written in C programming language that implements a fi
 -->
 
 <h2>👩‍💻 Rmatrix 👩‍💻</h2>
-The Rmatrix project utilizes certain features of modern terminals to simulate a matrix effect. It offers customizable features, allowing users to enhance the visual appeal and behaviors of the matrix. Some included customizations involve setting new colors for the matrix, adjusting the speed of its operations and more. The entire project is implemented using the Rust programming language.
-
+The Rmatrix project leverages advanced features of modern terminals to simulate the iconic matrix effect. It provides customizable options for users, including color schemes, speed adjustments, and various visual behaviors. The entire project is implemented using the Rust programming language.
 <!--
 <h2>Anemone 🐟</h2>
 Anemone is a compact C library designed for the C programming language, with the ultimate aim of serving as a command-line argument parser. Currently, it effectively handles positional and optional arguments. The documentation for the project is available in the main README.md file and within specific issues marked with the 'documentation' label.
