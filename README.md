@@ -2,7 +2,7 @@
 
 <h1 align="center">{ &nbsp; Rômulo "Cypher" Peres &nbsp; }</h1>
 
-Hello, my name is Rômulo Peres. I’m a computer enthusiast with a strong focus on software engineering and computer architecture. I’m particularly interested in programming languages, hardware systems, and their interaction. Among programming languages, I have a deep appreciation for C because of its efficiency and the level of control it provides over hardware and memory.
+Hello, my name is Rômulo Peres. I’m a computer enthusiast with a strong focus on software engineering and computer architecture. My interests extend to low-level programming, kernel mode development and compiler designs. As a full-stack software engineer, I focus on developing reliable and well-structured solutions with technologies such as TypeScript, Python, and Java.
 
 <h1>Some good repositories that you could like</h1>
 
