@@ -1,4 +1,4 @@
-<img align="right" width="260" height="210" src="CypherBoy.gif">
+<!--<img align="right" width="260" height="210" src="CypherBoy.gif">-->
 
 <h1 align="center">{ &nbsp; Rômulo "Cypher" Peres &nbsp; }</h1>
 
