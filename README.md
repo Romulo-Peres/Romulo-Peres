@@ -7,17 +7,17 @@
 
 <div>
    <a href="https://github.com/Romulo-Peres/Rmatrix">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=rmatrix&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats-macora.vercel.app/api/pin/?username=Romulo-Peres&repo=rmatrix&theme=tokyonight">
    </a>
    <a href="https://github.com/Romulo-Peres/Aligner">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Aligner&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats-macora.vercel.app/api/pin/?username=Romulo-Peres&repo=Aligner&theme=tokyonight">
    </a>
    <br/>
    <a href="https://github.com/Romulo-Peres/Assembly-Toolkit">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Assembly-Toolkit&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats-macora.vercel.app/api/pin/?username=Romulo-Peres&repo=Assembly-Toolkit&theme=tokyonight">
    </a>
    <a href="https://github.com/Romulo-Peres/Real-snake">
-      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Romulo-Peres&repo=Real-snake&theme=tokyonight">
+      <img height="95px" src="https://github-readme-stats-macora.vercel.app/api/pin/?username=Romulo-Peres&repo=Real-snake&theme=tokyonight">
    </a>
 </div>
 
@@ -58,8 +58,8 @@ Anemone is a compact C library designed for the C programming language, with the
 
 <h1>My status 📖</h1>
 <div>
-   <img height="117px" src="https://github-readme-stats.vercel.app/api?username=Romulo-Peres&theme=tokyonight&show_icons=true">
-   <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Peres&theme=tokyonight&layout=compact&langs_count=4&hide=javascript,css,html">
+   <img height="117px" src="https://github-readme-stats-macora.vercel.app/api?username=Romulo-Peres&theme=tokyonight&show_icons=true">
+   <img height="117px" src="https://github-readme-stats-macora.vercel.app/api/top-langs/?username=Romulo-Peres&theme=tokyonight&layout=compact&langs_count=4&hide=javascript,css,html">
 </div>
 <sup>Reload the page if they didn't appear ;)</sup>
 
