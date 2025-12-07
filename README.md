@@ -1,6 +1,6 @@
 <!--<img align="right" width="260" height="210" src="CypherBoy.gif">-->
 
-<h1 align="center"> &lt;/&gt; &nbsp;{ &nbsp; Rômulo "Cypher" Peres &nbsp; } &nbsp;&lt;/&gt;</h1>
+<h1 align="center"> &lt;/&gt; &nbsp;{ &nbsp; Rômulo "Cypher" Peres &nbsp; } &nbsp;&lt;\&gt;</h1>
 
 <p>Hello, my name is Rômulo Peres. I’m a computer enthusiast with a strong focus on software engineering and computer architecture. My interests extend to low-level programming, kernel mode development and compiler designs. As a full-stack software engineer, I focus on developing reliable and well-structured solutions, maintaining a technology-agnostic approach that prioritizes choosing the most suitable tools for each project's goals.</p>
 <h1>Some good repositories that you could like</h1>
