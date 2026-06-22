@@ -28,7 +28,7 @@ This repository contains considerable information about the Assembly language, p
 The Aligner is a software tool designed to transform boring, raw terminal interfaces into incredible and elegant message displays. It's fully customizable with colors, display modes, messages, and remote control. Everything you need to make your setup look awesome!
 
 <h2>🐍 Real-snake 🐍</h2>
-Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 2KiB, loader included.
+Real snake is a bootable snake game written in assembly language, designed to run in real mode. The project implements random generation of fruits, sandbox borders and in-code configurable parameters, everything in an image of 2KiB. Loader included.
 
 <!--<h2>⌚ Rclock ⌚</h2>
 The Rclock is a digital terminal clock for POSIX systems, fully customizable with colors and datetime features.
